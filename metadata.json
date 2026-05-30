@@ -1,0 +1,6 @@
+{
+  "name": "青年生活智助",
+  "description": "面向 18-35 岁学生和职场新人的一站式真实生活服务与智助软件。集成实时天气、快递查询、经典菜谱、便民换算、求职分析、记账管家、情绪树洞及生活妙招等多场景，配备 AI 原生智助管家。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
